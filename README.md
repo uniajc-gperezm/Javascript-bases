@@ -11,4 +11,8 @@
 
 Instalar Node JS y NVM
 Node.js: es el entorno de ejecucion de Javascript fuera del navegador en el servidor.
-NVM: es un gestor de versiones de Node.js que permite instalar y cambiar entre diferentes versiones
+
+NVM: Node version manager es un gestor de versiones de Node.js que permite instalar y cambiar entre diferentes versiones
+
+Gestor de dependencias: npm
+node package manager
