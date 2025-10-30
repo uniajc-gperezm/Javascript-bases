@@ -919,3 +919,23 @@ console.log(0 == false);      // true
 ### Conclusión
 
 **Usa siempre `===` (igualdad estricta)** a menos que tengas una razón muy específica para querer la coerción de tipo que realiza `==`. El uso de `===` hace que tu código sea más predecible, más fácil de leer y menos propenso a errores sutiles.
+
+---
+
+## Fuentes y Recursos Adicionales
+
+Aquí tienes una lista de recursos de alta calidad para profundizar en los temas que hemos cubierto y para practicar con otras APIs.
+
+### Libros y Guías Fundamentales
+*   [Eloquent JavaScript (en español)](https://www.eloquentjavascript.es/): Un libro fantástico y completo para dominar JavaScript, desde los fundamentos hasta temas avanzados.
+
+### Documentación Oficial y Diseño de APIs
+*   [Guía de inicio de Express.js](https://expressjs.com/es/starter/installing.html): La documentación oficial es el mejor lugar para aprender todas las capacidades de Express.
+*   [Guías de Node.js](https://nodejs.org/es/docs/guides): Guías oficiales sobre temas clave de Node.js.
+*   [Visión general de HTTP (MDN)](https://developer.mozilla.org/es/docs/Web/HTTP/Overview): Entender el protocolo HTTP es fundamental para cualquier desarrollador de APIs. La Mozilla Developer Network (MDN) es una referencia de máxima calidad.
+
+---
+
+## Conclusión
+
+Este repositorio te ha mostrado las bases fundamentales de javascript para inciar con el desarrollo web moderno.
